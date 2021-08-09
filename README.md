@@ -31,7 +31,7 @@ JSON Files:
   a. wikipedia-movies.json
 
 ### Results: 
-The complete extract, transform, and load process reulted in database with two tables:
+The complete extract, transform, and load process resulted in database with two tables:
 
 a. Movies Table consisting 31 columns and 6052 different movies.
 
