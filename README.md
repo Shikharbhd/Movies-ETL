@@ -22,11 +22,11 @@ e. Bonus Deliverable: A written report on the Movie Database analysis README.md.
 
 Python PostgreSQL CSV Files:
 
-a. ratings.csv
+  a. ratings.csv
 
-b. movies_metadata.csv
+  b. movies_metadata.csv
 
 JSON Files:
 
-a. wikipedia-movies.json
+  a. wikipedia-movies.json
 
