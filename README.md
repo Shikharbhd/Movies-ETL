@@ -30,3 +30,14 @@ JSON Files:
 
   a. wikipedia-movies.json
 
+### Results: 
+The complete extract, transform, and load process reulted in database with two tables:
+
+a. Movies Table consisting 31 columns and 6052 different movies.
+
+![movies_query.png](https://github.com/Shikharbhd/Movies-ETL/blob/main/Resources/movies_query.png)
+
+
+b. Ratings Table consisting 5 columns and over 26 million user ratings.
+
+(![ratings_query.png](https://github.com/Shikharbhd/Movies-ETL/blob/main/Resources/ratings_query.png)
